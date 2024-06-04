@@ -29,10 +29,13 @@
 ### Let's connect? 🤝
 
 <p align="left">
-<a href="https://lucassamuel97.github.io/"><img src="https://img.shields.io/badge/about-8A2BE2"/></a>
-<a href="https://www.linkedin.com/in/lucas-samuel-pereira-godoy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC7GrQMaMrmPNegt7VKQ6y0g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-<a href="https://hub.docker.com/u/lucassamuel/"><img src="https://img.shields.io/badge/DockerHub-lucassamuel-blue"/></a>
+<a target="_blank" href="https://lucassamuel97.github.io/"><img src="https://img.shields.io/badge/about-%8A2BE2.svg?style=for-the-badge&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/lucas-samuel-pereira-godoy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.youtube.com/channel/UC7GrQMaMrmPNegt7VKQ6y0g"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+<a target="_blank" href="https://hub.docker.com/u/lucassamuel/"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a target="_blank" href="https://www.udemy.com/user/lucas-samuel-pereira-godoy/"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
+<a target="_blank" href="https://www.hackerrank.com/profile/lucgod_1997"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+</p>
 
 ### ⚡ Github Stats</b></summary>
 [comment]: ![Metrics](https://metrics.lecoq.io/lucassamuel97?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
