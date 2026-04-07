@@ -1,45 +1,56 @@
-### 🚀 Languages and Tools
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aceebb,25:4ac26b,60:2da44e,100:116329&height=2&section=header" width="100%"/>
+    <h1>Lucas Samuel (SamucaDev)</h1>
 
-<p align="left">
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="Ruby"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="Rails"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" alt="jQuery"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/travis/travis-original.svg" alt="Travis CI"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"/>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab"/>
-</p>
+  <p align="center">  
+    Desenvolvedor de Software | Back-end & Full-stack | Java, Spring Boot, PHP, Laravel | Arquitetura de Microsserviços & DDD
+  </p>
 
-### 🤝 Let's connect
+  <a href="https://samucadev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-samuel-pereira-godoy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:lukassamuka88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
-<p align="left">
-    <a href="https://lucassamuel97.github.io/" target="_blank"><img src="https://img.shields.io/badge/about-8A2BE2.svg?style=for-the-badge&logoColor=white" alt="About"/></a>
-    <a href="https://www.linkedin.com/in/lucas-samuel-pereira-godoy/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.youtube.com/channel/UC7GrQMaMrmPNegt7VKQ6y0g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
-    <a href="https://hub.docker.com/u/lucassamuel/" target="_blank"><img src="https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub"/></a>
-    <a href="https://www.udemy.com/user/lucas-samuel-pereira-godoy/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy"/></a>
-    <a href="https://www.hackerrank.com/profile/lucgod_1997" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
-</p>
+---
 
-### ⚡ Github Stats
+## Sobre 
 
-[![Lucassamuel97 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucassamuel97&rank_icon=github&hide=stars&show_icons=true&theme=shadow_blue)](https://github.com/Lucassamuel97)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassamuel97&layout=compact&theme=shadow_blue)](https://github.com/Lucassamuel97)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lucassamuel97&theme=shadow_blue)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lucassamuel97&theme=flat&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+Sou desenvolvedor Full Stack com foco em arquitetura, performance e manutenção de sistemas de gestão.
+
+- Forte atuação com PHP (Laravel, CodeIgniter), Java (Spring Boot) e frontend moderno com React.js/Next.js.
+- Experiência prática com DDD, Clean Architecture, microsserviços e integração entre sistemas.
+- Vivência com bancos relacionais (MySQL/PostgreSQL), Docker, CI/CD e GitHub Actions.
+- Experiência com aplicações de IA utilizando RAG (Retrieval-Augmented Generation) e integração com MCP (Model Context Protocol).
+- Perfil orientado a negócio: transformo processos manuais em fluxos digitais robustos e escaláveis.
+
+---
+
+### Stack Tecnológica
+
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) |
+| **DevOps & Tooling** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-%23191919.svg?style=flat&logo=apachekafka&logoColor=white) |
+
+---
+
+### GitHub Stats 
+
+<div display="flex" align="center">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lucassamuel97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucassamuel97&layout=compact&langs_count=4&theme=dark"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aceebb,25:4ac26b,60:2da44e,100:116329&height=2&section=header" width="100%"/>
+</div>
