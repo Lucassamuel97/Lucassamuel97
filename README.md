@@ -54,3 +54,9 @@ Sou desenvolvedor Full Stack com foco em arquitetura, performance e manutenção
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:aceebb,25:4ac26b,60:2da44e,100:116329&height=2&section=header" width="100%"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
